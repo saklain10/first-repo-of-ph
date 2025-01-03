@@ -4,4 +4,7 @@
 }
 .abc{
     background-image: url("tech-companies.jpg");
+    background-position: center;
+    background-origin: border-box;
+    background-size:200px;
 }
